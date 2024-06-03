@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test {
+  border: 1px solid red;
+  /* background:linear-gradient(90deg,transparent,rgba(0, 0, 0, 0.611),transparent) ; */
+}
